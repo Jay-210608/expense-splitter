@@ -22,7 +22,4 @@ A MySQL database that tracks shared expenses between friends and calculates who 
 MySQL, MySQL Workbench, VS Code, Git
 
 ## Team
-M.JAYIN MANIDEEP REDDY-325103310148
-M.DHEERAJ -325103310149
-P.YASWINI SAI -325103310182
-BHAVANI PRASAD-3261033101L14
+M.JAYIN MANIDEEP REDDY
